@@ -3,13 +3,13 @@
 
 ### ABOUT ME
 
-I'm from Iran. I was born in Nowshahr-Mazandaran. We moved to Karaj when I was 12. I got interested in computers ever since I was a boy and back then i just played lots of video games.I went and got my self a licence in software Engineering  and a bachelor in MBA How did that help i don't know.IF you like we could talk about basketball,football,fantasy novel,comic books or we could get down to the bushiness right away. 
+I'm from Iran and was born in Nowshahr. We moved to Tehran when I was 12. I got interested in computers ever since I was a boy and back then i just played lots of video games.I went and got my self a Bachelor's in software Engineering  and a Master's in MBA How did that help i don't know.IF you like we could talk about basketball,football,fantasy novel,comic books or we could get down to the bushiness right away. 
 
 ### I Can Code these fairly well
 
-1. .NET(framework & core)
+1. .NET(Framework & Core)
 2. JS(Jquery,React)
-3. Sql(sql server) & noSql(Mongodb)
+3. Sql(Sql server) & noSql(Mongodb)
 
 ### I Also know these 
 

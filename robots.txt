@@ -1,4 +1,4 @@
-Sitemap: http://www.tahakhz.com/sitemap.xml
+Sitemap: https://tahakhz.github.io/sitemap.xml
 #
 # robots.txt
 #

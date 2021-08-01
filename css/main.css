@@ -596,6 +596,9 @@ h2 {
 	margin-bottom: 20px;
 	height: 40px;
 }
+.main__experience-middle {
+	height: 215px;
+}
 @media (min-width: 1024px) {
 	.main__experience {
 		max-width: 500px;
