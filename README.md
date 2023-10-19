@@ -3,7 +3,7 @@
 
 ### ABOUT ME
 
-I'm a software developer and a game enthusiast. i have been developing in the web and mobile platforms for years, but my childhood passion for games and gaming brought me to the game industry and my experience with web and mobile platforms gave me more insight to become an indie game dev. Starting with JavaScript web games made this passion burn brighter and I've been creating games ever since, working with different engines and experimenting with creating multiplayer and single player games.
+I'm a software developer and a game enthusiast. I have been developing in the web and mobile platforms for years, but my childhood passion for games and gaming brought me to the game industry and my experience with web and mobile platforms gave me more insight to become an indie game dev. Starting with JavaScript web games made this passion burn brighter and I've been creating games ever since, working with different engines and experimenting with creating multiplayer and single player games.
 
 ### I Can Code these fairly well
 
