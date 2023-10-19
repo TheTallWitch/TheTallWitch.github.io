@@ -1,4 +1,4 @@
-Sitemap: https://tahakhz.github.io/sitemap.xml
+Sitemap: https://TheTallWitch.github.io/sitemap.xml
 #
 # robots.txt
 #

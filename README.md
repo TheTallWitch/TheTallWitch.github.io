@@ -3,38 +3,33 @@
 
 ### ABOUT ME
 
-I'm from Iran and was born in Nowshahr. We moved to Tehran when I was 12. I got interested in computers ever since I was a boy and back then i just played lots of video games.I went and got my self a Bachelor's in software Engineering  and a Master's in MBA How did that help i don't know.IF you like we could talk about basketball,football,fantasy novel,comic books or we could get down to the bushiness right away. 
+I'm a software developer and a game enthusiast. i have been developing in the web and mobile platforms for years, but my childhood passion for games and gaming brought me to the game industry and my experience with web and mobile platforms gave me more insight to become an indie game dev. Starting with JavaScript web games made this passion burn brighter and I've been creating games ever since, working with different engines and experimenting with creating multiplayer and single player games.
 
 ### I Can Code these fairly well
 
-1. .NET(Framework & Core)
-2. JS(Jquery,React)
-3. Sql(Sql server) & noSql(Mongodb)
+1. JS(Phaser Game Engine)
+2. Android(Kotlin)
 
 ### I Also know these 
 
 1. SourceControls(Git)
-2. MessageBrokers(RabbitMQ)
-3. TaskManager(Trello)[why did i put this here you ask, because i needed three skills to match the top]
+2. WebSockets(PHP)
 
-### I Also have done project with these[can i deliver?! yes, would it be fantastic?! No]
+### I also have done projects with these
 
-1. Php(laravel)
-2. Pyton
-3. nodeJs
-4. Angular
-5. Sass
+1. Godot
+2. Unity
 
 
-**Note**: and last but not least i can design my assets not good of course but i manage
+**Note**: and last but not least I can design my assets not good of course but I manage
 
 `how can you reach me?!`
 ```
 social_media:  
-  linkedin: tahakhz
-  stackoverflow: tahakhz
-  telegram: tahakhz
-  twitter: tahakhz
-  website: https://tahakhz.github.io,
+  linkedin: SaharPournasseh
+  stackoverflow: TheTallWitch
+  telegram: SaharPournasseh
+  twitter: TheTallWitch
+  website: https://TheTallWitch.github.io,
 ```
 
